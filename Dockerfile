@@ -1,2 +1,2 @@
-FROM tomcat:8.0.20-jre8
-COPY target/*.war /usr/local/tomcat/webapps/maven-web-app.war
+FROM tomcat:9.0.37-jre8-corretto
+COPY target/maven-web-app.war /usr/local/tomcat/webapps/myapp.war
