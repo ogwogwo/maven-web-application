@@ -9,10 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
+<h1 align="center">Welcome to JoinIT Solutions.</h1>
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
-	Landmark Technologies is a software development company. 
-	Class26 will run from October 2, 2021.
+	JoinIT Solutions is a software development company. 
+	September seesion  will run from September 2, 2022.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
@@ -20,20 +20,20 @@
 		<img src="images/mylandmarklogo.jpg" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		JOINIT SOLUTIONS, 
+		ABU DHABI, ALAIN, UAE
+		+971506043612,
+		tosamisaac7@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:tosamisaac7@gmail.com">Mail to tosamisaac7@gmail.com</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>JOINIT  is Supporting & Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://JoinIT solutions.com/">JOINIT SOLUTIONS</a> </small></p>
 
 </body>
 </html>
