@@ -22,11 +22,11 @@ public class EmployeeService {
 			throws JSONException {
 
 		JSONObject js = new JSONObject();
-		js.put("Name", "Landmark Technologies");
-		js.put("Calling Name", "mylandmark");
+		js.put("Name", "JOINIT SOLUTIONS");
+		js.put("Calling Name", "JOINIT");
 		js.put("DOB", "May 1, 2005");
-		js.put("Hobbies", "Praying, Singing, Reading Technical Blogs,Teaching, Helping to Poor People..");
-		js.put("Places he like", "Africa, NA, Bali");
+		js.put("Hobbies", "leaning, playing, Reading Technical Blogs,Teaching, Helping to Poor People..");
+		js.put("Places he like", "Africa, Boyo, Kom");
 		return js.toString();
 }
 }
