@@ -7,7 +7,7 @@
 <title>MylandmarkTech.com- Home Page</title>
 <link href="images/log4.png" rel="icon">
 </head>
-isaac 
+isaac tosam
 </head>
 <body>
 <h1 align="center">Welcome to JoinIT Solutions.</h1>
