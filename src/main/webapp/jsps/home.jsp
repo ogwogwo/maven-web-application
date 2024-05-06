@@ -4,15 +4,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MylandmarkTech.com- Home Page</title>
+<title>itech Digital Solutions- Home Page</title>
 <link href="images/log4.png" rel="icon">
 </head>
 isaac tosam http://3.91.87.236//github-webhook/ isaac tosam
 </head>
 <body>
-<h1 align="center">Welcome to JoinIT Solutions.</h1>
+<h1 align="center">Welcome to itech Digital Solutions.</h1>
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
-	JoinIT Solutions is a software development company. 
+	itech Digital Solutions is a software development company. 
 	September seesion  will run from September 2, 2022.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
@@ -21,7 +21,7 @@ isaac tosam http://3.91.87.236//github-webhook/ isaac tosam
 		<img src="images/mylandmarklogo.jpg" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		JOINIT SOLUTIONS, 
+		itech Digital Solutions, 
 		ABU DHABI, ALAIN, UAE
 		+971506043612,
 		tosamisaac7@gmail.com
@@ -34,7 +34,7 @@ isaac tosam http://3.91.87.236//github-webhook/ isaac tosam
 <hr>
 <hr>
 <p align=center>JOINIT  is Supporting & Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://JoinIT solutions.com/">JOINIT SOLUTIONS</a> </small></p>
+<p align=center><small>Copyrights 2022 by <a href="http://itech Digital Solutions.com/">itech Digital Solutions</a> </small></p>
 
 </body>
 </html>
